@@ -1,4 +1,4 @@
-# Tasks from Hexlet course on C
+# Tasks from the Hexlet course on C
 
 Here are my solutions of some problems from the hexlet course
 
